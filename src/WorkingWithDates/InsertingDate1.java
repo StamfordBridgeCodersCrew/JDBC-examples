@@ -1,4 +1,4 @@
-package Tutorial1;
+package WorkingWithDates;
 
 public class InsertingDate1 {
 }
